@@ -69,6 +69,7 @@ public class Employee {
     }
 
     public static class EmployeeBuilder {
+
         private final Employee employee;
 
         public EmployeeBuilder() {
@@ -110,6 +111,3 @@ public class Employee {
         }
     }
 }
-
-
-
